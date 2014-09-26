@@ -1,3 +1,3 @@
-# Debian 7.6.0 [http://www.packer.io/](Packer) template
+# Debian 7.6.0 [Packer](http://www.packer.io/) template
 
-Based in the nice job done by [https://github.com/tech-angels/packer-templates](Tech-Angels).
+Based in the nice job done by [Tech-Angels](https://github.com/tech-angels/packer-templates).
