@@ -20,7 +20,7 @@ A VM box file should be created in the working directory under the name
 You can now use [Vagrant](https://www.vagrantup.com/) to run it by creating a
 `Vagrantfile` with this content:
 
-```
+```ruby
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
