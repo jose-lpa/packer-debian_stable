@@ -10,7 +10,7 @@ pip install virtualenv virtualenvwrapper
 # Configure Virtualenvwrapper.
 cat <<EOF >> /home/vagrant/.bashrc
 # Virtualenvwrapper configuration.
-export WORKON_HOME=$HOME/.virtualenvs
-export PROJECT_HOME=$HOME/Devel
+export WORKON_HOME=\$HOME/.virtualenvs
+export PROJECT_HOME=\$HOME/Devel
 source /usr/local/bin/virtualenvwrapper.sh
 EOF
