@@ -57,8 +57,10 @@
                 "virtualbox-iso": {
                     "scripts": [
                         "scripts/base.sh",
+                        "scripts/system.sh",
                         "scripts/vagrant.sh",
                         "scripts/virtualbox.sh",
+                        "scripts/python.sh",
                         "scripts/cleanup.sh"
                     ]
                 }
