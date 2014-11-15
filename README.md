@@ -1,6 +1,6 @@
 # Debian 7.6.0 [Packer](http://www.packer.io/) template
 
-This template buils a VirtualBox image based on Debian Wheezy 7.6.0. The VM is
+This template builds a VirtualBox image based on Debian Wheezy 7.6.0. The VM is
 configured to use 512 MB of RAM and 1 CPU. Those settings, as many others, can
 be changed in the `debian-7.6.0-wheezy.json` file.
 
@@ -37,4 +37,4 @@ And leverage and access the VM as usual with Vagrant:
     `vagrant ssh`
 
 ## Credits
-Based in the nice template written by [Tech-Angels](https://github.com/tech-angels/packer-templates).
+Based on the nice template written by [Tech-Angels](https://github.com/tech-angels/packer-templates).
